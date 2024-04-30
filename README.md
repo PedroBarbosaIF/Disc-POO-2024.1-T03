@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  2° Trabalho da N1 de POO
+  3° Trabalho da N1 de POO
 </h2>
 
 ### Feito por:
